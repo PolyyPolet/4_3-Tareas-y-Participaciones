@@ -101,6 +101,7 @@
 <body>
     <!-- Formulario de contacto -->
     <form method="POST">
+        <h2>Contacto</h2>
 
         <!-- Campo para nombre -->
         <input type="text" name="nombre" placeholder="Nombre" required>
